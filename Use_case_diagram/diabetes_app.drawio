@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="XoVPfzblxcJKWaUqchMP" name="Page-1">
-        <mxGraphModel dx="746" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="580" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -17,13 +17,13 @@
                     <mxGeometry x="70" y="995" width="50" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="UC15 -Přístup do databáze" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="940" width="120" height="50" as="geometry"/>
+                    <mxGeometry x="230" y="990" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="UC16 - Vytvoření pacietnta" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="1005" width="120" height="50" as="geometry"/>
+                    <mxGeometry x="230" y="1055" width="120" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="UC17 - Vytvoření doktora" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="1070" width="120" height="50" as="geometry"/>
+                <mxCell id="8" value="UC14 - Vytvoření doktora" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="930" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" style="edgeStyle=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="13" target="14" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -41,25 +41,25 @@
                     <mxGeometry x="70" y="680" width="50" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="UC8 - Zobrazení výsledku měření glukózy" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="490" width="120" height="50" as="geometry"/>
+                    <mxGeometry x="220" y="510" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="UC9 - Zhodnocení vyhodnocené denní stravy" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="550" width="120" height="50" as="geometry"/>
+                    <mxGeometry x="220" y="570" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" value="UC10 - Zhodnocení vyhodnocení denní aktivity" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="611" width="120" height="49" as="geometry"/>
+                    <mxGeometry x="220" y="631" width="120" height="49" as="geometry"/>
                 </mxCell>
                 <mxCell id="17" value="UC11 - Vytvoření pacienta" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="670" width="120" height="50" as="geometry"/>
+                    <mxGeometry x="220" y="690" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="UC12 - Zhodnocení denníku duševného zdravý" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="730" width="120" height="50" as="geometry"/>
+                    <mxGeometry x="220" y="750" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="UC13 - Vydání&lt;br&gt;e-recept" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="790" width="120" height="50" as="geometry"/>
+                    <mxGeometry x="220" y="810" width="120" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="UC14 - Pozvání pacienta na konrolu / konzultaci" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="850" width="120" height="50" as="geometry"/>
+                <mxCell id="20" value="UC7 - Pozvání pacienta na konrolu / konzultaci" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="450" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="13" target="18" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,7 +92,7 @@
                     <mxGeometry x="70" y="240" width="50" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="UC1 - Zadání měření glukózy v krvy" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="110" width="120" height="50" as="geometry"/>
+                    <mxGeometry x="220" y="50" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="31" value="UC3 - Zadání denní stravy" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="220" y="170" width="120" height="50" as="geometry"/>
@@ -106,8 +106,8 @@
                 <mxCell id="34" value="UC6 - Žádost o &lt;br&gt;e-recept" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="220" y="350" width="120" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" value="UC7 - žádost o konrolu / konzultaci" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="410" width="120" height="50" as="geometry"/>
+                <mxCell id="35" value="UC2 - žádost o konrolu / konzultaci" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="110" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="28" target="33" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -139,7 +139,7 @@
                 <mxCell id="50" value="UC20 - Vyhodnocení denní aktivity" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="499" y="890" width="120" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" value="UC22 - Sledování posledního termínu návštěvy a vytvoření termínu návštěvy lékaře a přídání toho termínu jak do kalendáře pacienta tak doktora" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+                <mxCell id="52" value="UC17 - Sledování posledního termínu návštěvy a vytvoření termínu návštěvy lékaře a přídání toho termínu jak do kalendáře pacienta tak doktora" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="470" y="975" width="210" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="53" style="edgeStyle=none;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="47" target="50" edge="1">
@@ -152,6 +152,15 @@
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="749" y="1011.6666666666665" as="sourcePoint"/>
                         <mxPoint x="649" y="840" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="UC18 - Vyhodnocení hypo / hyperglykemie" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="499" y="750" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="47" target="56">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="720" y="840" as="sourcePoint"/>
+                        <mxPoint x="629" y="855" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
