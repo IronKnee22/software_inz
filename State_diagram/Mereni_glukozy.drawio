@@ -82,7 +82,7 @@
                         <mxPoint x="23" y="-11" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="15" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" edge="1" target="30">
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" target="30" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="454" y="470" as="sourcePoint"/>
                         <mxPoint x="560" y="515" as="targetPoint"/>
@@ -130,7 +130,7 @@
                 <mxCell id="29" value="Informační okénu vše v pořádku" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="234" y="525" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="Zobrazení hlášky jestli je naměřená hodnota v heper nebo hypoglykemických hodnotách" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+                <mxCell id="30" value="Zobrazení hlášky jestli je naměřená hodnota v hyper nebo hypoglykemických hodnotách" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="500" y="525" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
